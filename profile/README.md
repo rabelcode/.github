@@ -7,6 +7,14 @@
 
 <br />
 
+## `🧑‍💻` Geliştiricilerimiz
+<div>
+  <a href="https://github.com/GweepCreative" target="_blank">
+    <img src="https://github.com/GweepCreative.png?size=40">
+    Gweep Creative
+  </a>
+</div>
+
 ---
-<p align="center"><img src="https://i.hizliresim.com/bw1f5bs.png" style="width:10px"> <a href="https://github.com/GweepCreative">Gweep Creative</a> ve <a href="https://github.com/raqzid">raqzid</a> tarafından Oluşturuldu, Tasarlandı, Geliştirildi. <img src="https://i.hizliresim.com/bw1f5bs.png" style="width:10px"></p>
-<p align="center">Teşekkürler <a href="https://github.com/tunardev">TunarDev</a></p>
+<p align="center"><img src="https://i.hizliresim.com/bw1f5bs.png" style="width:10px"> <a target="_blank" href="https://github.com/GweepCreative">Gweep Creative</a> ve <a target="_blank" href="https://github.com/raqzid">raqzid</a> tarafından Oluşturuldu, Tasarlandı, Geliştirildi. <img src="https://i.hizliresim.com/bw1f5bs.png" style="width:10px"></p>
+<p align="center">Teşekkürler <a target="_blank" href="https://github.com/tunardev">TunarDev</a></p>
