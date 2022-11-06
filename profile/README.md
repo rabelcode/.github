@@ -12,15 +12,13 @@
   <a href="https://github.com/GweepCreative" target="_blank">
     <img src="https://github.com/GweepCreative.png?size=60" style="border-radius:25px">
   </a>
-</div>
+
 
 <div align="center" style="justify-content-items:center; display:flex; color:white; text-design:none;">
   <a href="https://github.com/raqzid" target="_blank">
     <img src="https://github.com/raqzid.png?size=60" style="border-radius:25px">
   </a>
-</div>
 
-<div align="center" style="justify-content-items:center; display:flex; color:white; text-design:none;">
   <a href="https://github.com/tunardev" target="_blank">
     <img src="https://github.com/tunardev.png?size=60" style="border-radius:25px">
   </a>
