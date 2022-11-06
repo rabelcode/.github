@@ -8,7 +8,7 @@
 <br />
 
 ## `🧑‍💻` Geliştiricilerimiz
-<div align="center" style="display:flex; color:white; text-design:none;">
+<div align="center" style="justify-content-items:center; display:flex; color:white; text-design:none;">
   <a href="https://github.com/GweepCreative" target="_blank">
     <img src="https://github.com/GweepCreative.png?size=40" style="border-radius:20px">
     Gweep Creative
