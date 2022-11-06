@@ -1,4 +1,4 @@
-<h1 align="center">🧱 RabeL Code \n Herkes için kod paylaşım ve destek topluluğu</h1>
+<h1 align="center">🧱 RabeL Code <br> Herkes için kod paylaşım ve destek topluluğu</h1>
 
 <br />
 
