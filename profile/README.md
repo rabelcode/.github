@@ -1,4 +1,5 @@
-<h1 align="center">🧱 RabeL Code - Herkes için kod paylaşım ve destek topluluğu</h1>
+<h1 align="center">🧱 RabeL Code \n Herkes için kod paylaşım ve destek topluluğu</h1>
+
 <br />
 
 ## `✨` Biz kimiz?
