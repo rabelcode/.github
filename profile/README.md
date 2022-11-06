@@ -9,8 +9,8 @@
 
 ## `🧑‍💻` Geliştiricilerimiz
 <div>
-  <a href="https://github.com/GweepCreative" target="_blank">
-    <img src="https://github.com/GweepCreative.png?size=40">
+  <a href="https://github.com/GweepCreative" target="_blank" style="display:flex; color:white; text-design:none;">
+    <img src="https://github.com/GweepCreative.png?size=40" style:"border-radius:20px">
     Gweep Creative
   </a>
 </div>
