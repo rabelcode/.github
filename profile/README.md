@@ -1,4 +1,4 @@
-<h1 align="center">🧱 RabeL Code <br> Herkes için kod paylaşım ve destek topluluğu</h1>
+<h1 align="center"><img src="https://i.hizliresim.com/bw1f5bs.png"> RabeL Code <br> Herkes için kod paylaşım ve destek topluluğu</h1>
 
 <br />
 
